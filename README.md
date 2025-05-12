@@ -23,6 +23,4 @@ I am eager to apply my skills in **professional projects** and continue learning
 - Network with professionals on **LinkedIn**  
 - Apply for **backend development roles**  
 
-## 📌 Connect with Me  
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
+
